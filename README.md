@@ -6,6 +6,9 @@ Python has simple easy-to-use syntax, making it the excellent language for someo
 
 This is a comprehensive guide on Python Basics.
 
+-----------------------------------------------
+TOPICS
+
 Variables
 
 Strings 
