@@ -1,6 +1,7 @@
 # Python-Basics
 
 Variables
+
 Strings 
 Python Operators
 Functions
