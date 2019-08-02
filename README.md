@@ -1,7 +1,6 @@
 # Python-Basics
 
 Variables
-
 Strings 
 Python Operators
 Functions
@@ -11,3 +10,4 @@ Dictionaries
 Python If … Else
 For Loops
 While Loops
+
